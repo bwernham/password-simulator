@@ -1,3 +1,11 @@
-div {
+.title {
   text-align: center;
+  margin-top: 1cm;
+}
+
+.enter-pw-text {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh; 
 }
