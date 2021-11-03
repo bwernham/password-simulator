@@ -22,3 +22,8 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 130%;
 }
+
+.set-pw-btn {
+  top: 10px;
+  left: 10px;
+}
