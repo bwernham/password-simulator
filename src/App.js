@@ -7,6 +7,7 @@ function App() {
     <div>
       <div className="title">Password Simulator</div>
       <div className="enter-pw-text">Enter a password:</div>
+      <input className="pw-input"></input>
     </div>
   );
 }
